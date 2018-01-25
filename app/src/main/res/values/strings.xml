@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RocketLaunch</string>
+    <string name="missionImage">missionImage</string>
+</resources>
